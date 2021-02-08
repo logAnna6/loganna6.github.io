@@ -1041,10 +1041,14 @@ margin-right: 100px;
   .left-column img, .left-column p{
     width: 200px;
     margin-left: -20px;
+    text-align: center;
   }
   .companies img{
     width: 80px;
     margin: 10px;
-  ]
+  }
+  .green-block{
+    margin-top: 100px;
+  }
 }
 
