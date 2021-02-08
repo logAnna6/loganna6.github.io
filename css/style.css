@@ -143,7 +143,6 @@ height: 650px;
   margin: auto;
 }
 .gites{
-  width: 100%;
   margin-top: 20px;
 }
 
@@ -692,6 +691,7 @@ display: flex;
 justify-content: space-between;
 text-align: start;
 margin-top: 30px;
+width: 1200px;
 }
 
 .text{
@@ -748,7 +748,7 @@ margin-top: 0;
 
 table{
 font-family: "Didot","Helvetica Neue",Helvetica,Arial,sans-serif;
-width: 65%;
+width: 750px;
 margin: auto;
 }
 
@@ -949,8 +949,24 @@ margin-right: 100px;
 
 {
 
-  .footer{
-    display: flex;
-  }
+ h1{
+   font-size: 25pt;
+ }
+
+ h2{
+   font-size: 20pt;
+ }
+
+ .infobox-reserver{
+   text-align: center;
+ }
+  
+ .gites{
+   width: 300px;
+ }
+
+ li{
+   font-size: 14pt;
+ }
 
 }
