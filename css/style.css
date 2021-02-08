@@ -462,7 +462,7 @@ ul.menu li {
   text-align: center;
   transform: translate3d(0, 36px, 0);
 }
-ul.menu li :before {
+ul.menu li:before {
   content: "";
   position: absolute;
   top: 0;
@@ -477,7 +477,7 @@ ul.menu li :before {
   overflow: hidden;
   transition: width 0.14s ease-out;
 }
-ul.menu li :after {
+ul.menu li:after {
   opacity: 0;
   content: attr(data-text);
   position: absolute;
@@ -524,6 +524,10 @@ ul.menu li:hover:after {
 }
 .open ul.menu li:nth-child(6) {
   transition-delay: 1.25s;
+}
+
+.navigation li a{
+font-family: "Didot","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 
