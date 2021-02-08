@@ -1072,7 +1072,7 @@ margin-right: 100px;
     margin: 10px;
   }
   .green-block{
-    margin-top: 200px;
+    margin-top: 100px;
   }
 
   .color-block-gite{
@@ -1172,11 +1172,10 @@ form{
 }
 
 .slider .slider__item[data-position="1"] {
-  left: -260px;
-}
+  left: loganna6.github.io
 
 .slider .slider__item[data-position="2"] {
-  left:355px;
+  left:0;
 }
 
 .text, .list1, .list2{
