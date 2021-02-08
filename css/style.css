@@ -1015,8 +1015,13 @@ margin-right: 100px;
     height: 550px;
   }
 
+  .desc-reserver{
+    margin-top: 0px;
+
+  }
+
   .conditions{
-    margin-top: 100px;
+    margin-top: 50px;
   }
 
   .bigarreau, .montmorency{
