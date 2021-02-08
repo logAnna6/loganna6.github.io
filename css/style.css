@@ -1029,9 +1029,22 @@ margin-right: 100px;
     height: 1200px;
   }
 
-  .green-block{
+  .chamres-contain{
     margin-top: 150px;
     display:flex;
   }
+
+  .rigth-column{
+    display: none;
+  }
+
+  .left-column img, .left-column p{
+    width: 200px;
+    margin-left: -20px;
+  }
+  .companies img{
+    width: 80px;
+    margin: 10px;
+  ]
 }
 
