@@ -513,22 +513,19 @@ ul.menu li:hover:after {
 .open ul.menu li:nth-child(2) {
   transition-delay: 0.85s;
 }
-.open ul.menu li:nth-child(3) {
+.open ul.menu  li:nth-child(3) {
   transition-delay: 0.95s;
 }
-.open ul.menu li:nth-child(4) {
+.open ul.menu  li:nth-child(4) {
   transition-delay: 1.05s;
 }
-.open ul.menu li:nth-child(5) {
+.open ul.menu  li:nth-child(5) {
   transition-delay: 1.15s;
 }
-.open ul.menu li:nth-child(6) {
+.open ul.menu  li:nth-child(6) {
   transition-delay: 1.25s;
 }
 
-.navigation li a{
-font-family: "Didot","Helvetica Neue",Helvetica,Arial,sans-serif;
-}
 
 
 @-webkit-keyframes menu-animation {
@@ -809,13 +806,14 @@ margin-top: 50px;
 }
 
 .photo-gal{
- width: 95%;
+ width: 1500px;
  margin: auto;
  display: flex;
+ justify-content: center;
 }
 
 .big img{
- width: 650px;
+ width: 750px;
  margin-top: 20px;
 }
 .small img{
