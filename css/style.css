@@ -963,10 +963,66 @@ margin-right: 100px;
   
  .gites{
    width: 300px;
+   margin-left: -80px;
+ }
+
+ .infobox-reserver p, .infobox-reserver h1{
+  margin-left: -80px;
  }
 
  li{
-   font-size: 14pt;
+   font-size: 8pt;
  }
 
+ .arrow--prev{
+  left:10px;
+  }
+  
+  .arrow--next{
+  right:10px; 
+  }
+.slider__item img{
+  width: 300px;
+ 
 }
+  .info_gite .container{
+    height: 300px;
+  }
+  .color-block-reserver{
+    height: 550px;
+  }
+
+  .conditions{
+    margin-top: 100px;
+  }
+
+  .bigarreau, .montmorency{
+    height: 500px;
+  }
+  .arrow {
+    top: 50%;
+  }
+  footer{
+    display: block;
+    text-align: center;
+  }
+
+  .container{
+    height: 150px;
+  }
+
+  .contact-info{
+    margin-bottom: 20px;
+  }
+ li::after{
+   font-size: 18pt;
+ }
+ .menu a li{
+    font-size: 18pt;
+  }
+
+  .second-menu a{
+    font-size: 12pt;
+  }
+}
+
