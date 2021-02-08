@@ -691,12 +691,11 @@ display: flex;
 justify-content: space-between;
 text-align: start;
 margin-top: 30px;
-width: 350px;
+width: 95%;
 }
 
-.text, .list1, .list2{
-width: 350px;
-margin: auto;
+.text{
+  width: 500px;
 }
 
 .photos-bigga{
@@ -1069,13 +1068,9 @@ margin-right: 100px;
   .gite-info{
     display: block;
   }
-  .text{
-    max-width: 350px;
-    text-align: center;
-    margin-bottom: 20px;
-  }
+
 .list1, .list2{
-  max-width: 250px;
+  max-width: 5000px;
 }
 .infobox-reserver1 h2{
   margin-top:50px;
@@ -1164,5 +1159,16 @@ form{
 .slider .slider__item[data-position="2"] {
   left:355px;
 }
+
+.text, .list1, .list2{
+  width: 350px;
+  margin: auto;
+  }
+  
+  .text{
+    max-width: 350px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
 }
 
