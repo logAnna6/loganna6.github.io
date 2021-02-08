@@ -1050,5 +1050,103 @@ margin-right: 100px;
   .green-block{
     margin-top: 100px;
   }
+
+  .color-block-gite{
+    display: block;
+    height: 1100px;
+  }
+
+  .col2, .col3{
+    display: none;
+  }
+
+  .gite-info{
+    display: block;
+  }
+  .text{
+    max-width: 350px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+.list1, .list2{
+  max-width: 250px;
+}
+.infobox-reserver1 h2{
+  margin-top:50px;
+}
+.col1 img{
+width: 200px;
+}
+
+table{
+  width: 250px;
+  font-size: 16pt;
+}
+th{
+  font-size: 11pt;
+}
+.services-conditions{
+  display: block;
+  border: solid 10px #ffd9da;
+  padding: 10px;
+}
+
+.cond{
+  width: 300px;
+  height: auto;
+}
+.serv{
+  width: 300px;
+  margin-top: 20px;
+}
+
+.photo-gal{
+  display: block;
+}
+.big img, .small img{
+  width: 350px;
+  margin-left: 10px;
+}
+ .small{
+  display: block;
+  width: 350px;
+}
+.contact-content{
+  display: block;
+}
+.color-block-contact{
+  height: 1100px;
+}
+form{
+  width: 310px;
+  margin: auto;
+}
+#fname, #lname{
+  width: 300px;
+  float: none;
+  
+}
+.hosts{
+  width: 340px;
+ margin: auto;
+}
+.company{
+  margin-bottom: 20px;
+}
+.info-contact{
+  width: 390px;
+  text-align: center;
+  margin: auto;
+}
+.plan{
+  display: block;
+}
+.coordinates, iframe{
+  max-width: 100%;
+}
+.coordinates img{
+  width: 90px;
+  height: 90px;
+}
 }
 
