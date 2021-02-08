@@ -1172,10 +1172,10 @@ form{
 }
 
 .slider .slider__item[data-position="1"] {
-  left: loganna6.github.io
-
+  display: hidden;
+}
 .slider .slider__item[data-position="2"] {
-  left:0;
+  display: hidden;
 }
 
 .text, .list1, .list2{
