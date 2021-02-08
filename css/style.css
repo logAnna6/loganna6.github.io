@@ -694,8 +694,9 @@ margin-top: 30px;
 width: 350px;
 }
 
-.text{
-width: 320px;
+.text, .list1, .list2{
+width: 350px;
+margin: auto;
 }
 
 .photos-bigga{
