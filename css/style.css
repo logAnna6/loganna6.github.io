@@ -1022,7 +1022,16 @@ margin-right: 100px;
   }
 
   .second-menu a{
-    font-size: 12pt;
+    font-size: 8pt;
+  }
+
+  .color-block{
+    height: 1200px;
+  }
+
+  .green-block{
+    margin-top: 150px;
+    display:flex;
   }
 }
 
