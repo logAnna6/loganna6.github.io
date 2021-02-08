@@ -1120,6 +1120,7 @@ th{
   display: block;
 }
 .color-block-contact{
+  width: 100%;
   height: 1100px;
 }
 form{
@@ -1147,11 +1148,12 @@ form{
   display: block;
 }
 .coordinates, iframe{
-  max-width: 100%;
+  margin: auto;
 }
 .coordinates img{
   width: 90px;
   height: 90px;
+  margin: 20px;
 }
 }
 
