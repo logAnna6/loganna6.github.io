@@ -1156,5 +1156,13 @@ form{
   height: 90px;
   margin: 20px;
 }
+
+.slider .slider__item[data-position="1"] {
+  left: -260px;
+}
+
+.slider .slider__item[data-position="2"] {
+  left:355px;
+}
 }
 
