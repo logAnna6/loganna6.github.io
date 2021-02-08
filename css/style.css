@@ -642,22 +642,22 @@ ul.menu li:hover:after {
   z-index: 20;
 }
 .slider .slider__item[data-position="1"] {
-  left: 107%;
+  left: 935px;
 }
 
 .slider .slider__item[data-position="2"] {
-  left:-61%;
+  left:-400px;
 }
 .slider img{
 width: 650px;
 }
 
 .arrow--prev{
-left:14%;
+left:220px;
 }
 
 .arrow--next{
-right:16%; 
+right:240px; 
 }
 
 .bigarreau{
