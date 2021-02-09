@@ -1197,10 +1197,10 @@ form{
 }
 
 .slider .slider__item[data-position="1"] {
-  display: hidden;
+  display: none;
 }
 .slider .slider__item[data-position="2"] {
-  display: hidden;
+  display: none;
 }
 
 .text, .list1, .list2{
